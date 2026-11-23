@@ -1,0 +1,19 @@
+{
+  "flows": [
+    {"channel": "YouTube", "headline": "Skip the conversation.", "paywall_opens_on": "160 Credits, $29.99, under their Straight to Voicemail tile, after their first call is sent to voicemail", "note": "asks “Who do you need to leave a message for?” and names the credits screen after it: “Reach clients without the small talk”"},
+    {"channel": "Google", "headline": "Protect your privacy with SpoofCard!", "paywall_opens_on": "160 Credits, $29.99, after they choose the number they show and set up a private call", "note": "proof first: 4.7 stars from 36K ratings, 6M+ users and J. Moore’s review above the packs"},
+    {"channel": "Apple Ads", "term": "second texting number", "headline": "Send texts with confidence", "paywall_opens_on": "130 Credits Intro, $19.99, after their first text is sent", "note": "spells out the first-purchase bonus: 130 credits for $19.99, 30% more than the 100 pack"}
+  ],
+  "prices": {"packs": "45 Credits $9.99 · 100 Credits $19.99 · 160 Credits $29.99 · 280 Credits $49.99 · 600 Credits $99.99", "intro": "60 Credits $9.99 · 130 Credits $19.99", "trial": "none; 5 free credits at sign-up", "source": "US App Store listing, In-App Purchases; spoofcard.com/pricing"},
+  "today": {"text": "every ad and search reaches the same Dashboard: four tiles, a SALE badge and “Get up to 40% MORE credits with your first purchase!”", "source": "audit_frames"},
+  "asks": ["Who do you need to leave a message for?", "Who will you call from your second number?", "Who will you text from your second number?"],
+  "paywall": {"headline": "Reach clients without the small talk", "uses_answers": true},
+  "rebuild": "each ad and search opens its own first launch: one question, a first call or text before any price, the account after it, and credit packs that name the job and the price per credit",
+  "ideas": [
+    {"n": 1, "title": "Set up the first call or text before any price", "screen": "First win", "outcome": "CR +10–20%"},
+    {"n": 2, "title": "Keep each ad’s promise on the first screen", "screen": "Arrive", "outcome": "CR +5–10%"},
+    {"n": 3, "title": "Let one answer pick the number and the headline", "screen": "One question", "outcome": "CR +5–10%"},
+    {"n": 4, "title": "Spell out the first-purchase bonus and the price per credit", "screen": "Credits", "outcome": "ARPU +5–15%"},
+    {"n": 5, "title": "Offer the smaller first pack once, on close", "screen": "On close", "outcome": "CR +3–8%"}
+  ]
+}
